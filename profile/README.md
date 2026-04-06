@@ -1,4 +1,4 @@
-## Hi there 👋 this is my logically profile
+## Hi there 👋 
 
 <!--
 **tijuks/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ..àll repos and ais , model s 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...hey silly
-- ⚡ Fun fact: ...no one live to be silly 
--->
