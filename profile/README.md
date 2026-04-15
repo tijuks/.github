@@ -1,14 +1,10 @@
-## Hi there 👋 
+# Hi, I'm George Macharia! 👋
 
-<!--
-**tijuks/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
+I'm a Developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...agentic flow , skill
-- 🌱 I’m currently learning ... new horizons and dynamics.
-- 👯 I’m looking to collaborate on ... various 
-- 🤔 I’m looking for help with ...copilot upgrade 
-- 💬 Ask me about ..àll repos and ais , model s 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...hey silly
+### Connect with me:
+- 🌐 [Website](https://global.info-systems.com)
+- 💻 [GitHub Sponsors](https://github.com/sponsors/tijuks)
+- 📘 [Facebook](https://facebook.com/George.macharia.547)
+- 🐦 [X (Twitter)](https://x.com/@geormach)
+- 📧 [Email](mailto:wangarigeo@gmail.com)
