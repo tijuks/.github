@@ -1,4 +1,4 @@
-> ### 👤 George Macharia
+> ### 👤 tijuks 
 > **Developer**
 >
 > ---
