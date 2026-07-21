@@ -1,3 +1,2 @@
 special repo
-global-i
-nformation-system.io
+https://global-information-system.io
